@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8771'
     url: http://www.gutenberg.org/2009/agents/8771
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21418#The-Eugenic-Marriage-Volume-IV.--of-IV.-A-Personal-Guide-to-the-New-Science-of-Better-Living-_
 gutenberg_bookshelf:
 - Medicine
 - Sociology
