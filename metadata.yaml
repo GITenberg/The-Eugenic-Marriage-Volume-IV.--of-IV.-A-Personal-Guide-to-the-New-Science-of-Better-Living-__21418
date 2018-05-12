@@ -1,0 +1,32 @@
+_repo: The-Eugenic-Marriage-Volume-IV.--of-IV.-A-Personal-Guide-to-the-New-Science-of-Better-Living-__21418
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hague, W. Grant (William Grant)
+    alias: Hague, William Grant
+    birthdate: 1868
+    gutenberg_agent_id: '8771'
+    url: http://www.gutenberg.org/2009/agents/8771
+description: ''
+gutenberg_bookshelf:
+- Medicine
+- Sociology
+gutenberg_issued: '2007-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eugenics'
+- !lcsh 'Marriage'
+- !lcc 'RJ'
+- !lcsh 'Hygiene'
+title: "The Eugenic Marriage, Volume 4 (of 4)\r\nA Personal Guide to the New Science\
+  \ of Better Living and Better Babies"
+url: http://www.gutenberg.org/ebooks/21418
